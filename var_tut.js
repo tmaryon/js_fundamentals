@@ -55,3 +55,14 @@ var greeting = "Hello"; // We will combine this with yourName
 // console.log(typeof(num));
 // console.log(typeof(boolean));
 
+let myArray = [1,2,3];
+
+console.log(myArray)
+
+
+swArray = ['darth vader', 'prax blipborp']
+
+let result = swArray.join(' - ')
+//console.log(result)
+console.log(swArray.join(' - '))
+console.log(swArray)
